@@ -5,13 +5,14 @@
 ### Hi there, I'm Chaidhanya 👋
 
 🎓 **B.Tech in Electronics & Communication Engineering (2020–2024)**  
+
 I'm a passionate **MERN Stack Developer** focused on building scalable and responsive web applications.  
 I enjoy turning complex problems into simple, beautiful, and intuitive solutions.  
 Always learning, always building. 🚀
 
   </td>
   <td>
-    <img src="/images/working.jpeg" width="250" alt="Girl working on laptop with tea"/>
+    <img src="/Chaidhanya-hash/images/working.jpeg" width="250" alt="Girl working on laptop with tea"/>
   </td>
   </tr>
 </table>
