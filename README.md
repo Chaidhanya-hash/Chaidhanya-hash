@@ -6,6 +6,7 @@
 
 I'm a passionate **MERN Stack Developer** focused on building scalable and responsive web applications.  
 I enjoy turning complex problems into simple, beautiful, and intuitive solutions.  
+🎓 **B.Tech in Electronics & Communication Engineering (2020–2024)**  
 Always learning, always building. 🚀
 
   </td>
