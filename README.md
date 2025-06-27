@@ -12,7 +12,7 @@ Always learning, always building. 🚀
 
   </td>
   <td>
-    <img src="/Chaidhanya-hash/images/working.jpeg" width="250" alt="Girl working on laptop with tea"/>
+    <img src="https://github.com/Chaidhanya-hash/Chaidhanya-hash/blob/main/images/working.jpeg" width="250" alt="Girl working on laptop with tea"/>
   </td>
   </tr>
 </table>
